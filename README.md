@@ -3,7 +3,7 @@ Intro to myself and showcase my repo and social account.
 
 <br>
 
-Free free to visit my web : https://hsuchichen.github.io/hsuchichen_web/
+Free free to visit my web : https://hsuchichen.github.io/
 
 
 <br><br>

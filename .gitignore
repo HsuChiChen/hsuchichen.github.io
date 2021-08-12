@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.readme.md
+!assets
+!images
+!*.jpg
+!*.html

@@ -4,4 +4,5 @@
 !assets
 !images
 !*.jpg
+!*.svg
 !*.html

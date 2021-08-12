@@ -1,8 +1,2 @@
-*
-!.gitignore
-!readme.md
-!assets
-!images
-!*.jpg
-!*.svg
-!*.html
+!.zip
+!.7z

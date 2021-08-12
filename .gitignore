@@ -1,6 +1,6 @@
 *
 !.gitignore
-!.readme.md
+!readme.md
 !assets
 !images
 !*.jpg
